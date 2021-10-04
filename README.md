@@ -1,4 +1,4 @@
 This is the final published page
 
 
-https://github.com/kylenzhong/Lab2
+https://kylenzhong.github.io/Lab2/
